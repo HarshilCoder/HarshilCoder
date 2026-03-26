@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Harshil Shah 👋
 
-<!--
-**HarshilCoder/HarshilCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Business Data Analyst @ Physics Wallah
+📊 Turning data into business insights using SQL, Python & Power BI
+📍 Ahmedabad, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 📈 Currently managing Gujarat region data & reporting at Physics Wallah
+* 🧠 Strong in **SQL (Window Functions, CTEs, Advanced Joins)**
+* 📊 Experienced in building **interactive Power BI dashboards for business KPIs**
+* 🐍 Skilled in **Python (Pandas, EDA, Data Cleaning)**
+* 🎯 Actively preparing for **Data Analyst / Business Analyst roles (10–12 LPA target)**
+
+---
+
+## 🔧 Tech Stack
+
+* **Languages:** SQL, Python
+* **Data Analysis:** Pandas, NumPy
+* **Visualization:** Power BI
+* **Tools:** Excel, Google Sheets
+* **Concepts:** Data Cleaning, EDA, KPI Tracking, Business Insights
+
+---
+
+## 📊 Featured Projects
+
+### 📌 Student Outcome Analysis
+
+* Analyzed ~12,000 student records
+* Identified trends in **completion & continuation rates**
+* Built Power BI dashboard + Python EDA
+* 📈 Provided actionable insights for performance improvement
+
+---
+
+### 📌 Vendor Performance Analysis
+
+* Evaluated vendor efficiency & contribution
+* Built KPI tracking dashboards
+* Identified top-performing vs underperforming vendors
+
+---
+
+### 📌 Sales Data Analysis
+
+* Analyzed revenue trends & product performance
+* Created dashboard for decision-making
+* Highlighted key growth opportunities
+
+---
+
+## 📫 Connect With Me
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/harshil-shah97/
+
+---
+
+⭐ *Currently building strong data projects & preparing for top data analyst roles*
