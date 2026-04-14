@@ -1,8 +1,8 @@
 # Hi, I'm Harshil Shah 👋
 
 💼 Business Data Analyst @ Physics Wallah
-📊 Turning data into business insights using SQL, Python & Power BI
 📍 Ahmedabad, India
+📊 Turning data into business insights using SQL, Python & Power BI
 
 ---
 
